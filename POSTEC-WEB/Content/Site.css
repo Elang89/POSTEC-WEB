@@ -29,3 +29,21 @@ textarea {
         padding: 0;
     }
 }
+
+div .windows_tile {
+    color: white;
+    background-color: dodgerblue;
+    margin-left: 15px;
+    width: auto;
+    height: auto;
+}
+
+div .image {
+    width: 100px;
+    height: 100px;
+}
+
+div .description {
+    background-color: gold;
+    float: right;
+}
