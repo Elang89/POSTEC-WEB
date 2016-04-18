@@ -59,38 +59,6 @@
     </div>
     <hr>
     <div class="row">
-		<div class="col-sm-6 col-xs-12">
-			<div class="row">	
-			<div class="col-xs-4"><img src="http://dummyimage.com/600x600/" class="img-responsive"></div>
-			<div class="col-xs-8"><label class="control-label" id="product_name">Product Name</label></div>
-			</div>
-		</div>	
-		<div class="col-sm-6 col-xs-12">
-			<div class="row">
-			<div class="col-xs-3"><label class="control-label">Unit</label></div>
-            <div class="col-xs-3"><label class="control-label">Tax</label></div>
-            <div class="col-xs-3"><label class="control-label">Total</label></div>
-			<div class="col-xs-3"><label class="control-label">Quantity</label></div>
-            <br>
-            <br>
-			</div>
-			<div class="row">
-			<div class="col-xs-3"><label class="control-label">$122</label></div>
-            <div class="col-xs-3"><label class="control-label">$1.22</label></div>
-			<div class="col-xs-3"><label  class="control-label">$1232.2</label></div>
-            <div class="col-xs-3"><select class=""><option>10</option></select></div>
-			</div>
-            <br>
-            <br>
-			<div class="row">
-			<div class="col-xs-4">&nbsp;</div>
-			<div class="col-xs-4"><button class="btn btn-primary">Remove</button></div>
-			<div class="col-xs-4">&nbsp;</div>
-			</div>
-		</div>
-    </div>
-    <hr>
-    <div class="row">
         <div class="col-xs-12">
             <div class="pull-right"><label class="control-label">Total: $1232.2</label></div>
         </div>
