@@ -11,13 +11,6 @@ body {
     padding-right: 15px;
 }
 
-/* Set widths on the form inputs since otherwise they're 100% wide */
-input,
-select,
-textarea {
-    max-width: 280px;
-}
-
 
 /* Responsive: Portrait tablets and up */
 @media screen and (min-width: 768px) {
@@ -30,20 +23,9 @@ textarea {
     }
 }
 
-div .windows_tile {
-    color: white;
-    background-color: dodgerblue;
-    margin-left: 15px;
-    width: auto;
-    height: auto;
-}
 
 div .image {
     width: 100px;
     height: 100px;
 }
 
-div .description {
-    background-color: gold;
-    float: right;
-}
