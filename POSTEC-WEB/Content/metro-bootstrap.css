@@ -1769,8 +1769,7 @@ fieldset[disabled] .form-control {
 .form-signin {
   max-width: 380px;
   text-align: center;
-  font-family: "Segoe UI, Segoe UI Light"
-  padding: 15px;
+  font-family: "Segoe UI", "Segoe UI Light", "padding: 15px";
   margin: 0 auto;
 }
 .form-signin .form-signin-heading,
