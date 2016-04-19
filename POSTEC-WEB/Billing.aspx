@@ -12,6 +12,7 @@
                          <tr>
                              <th>First Name</th>
                              <th>Last Name</th>
+                             <th>Second Last Name</th>
                              <th>Email</th>
                          <tr>
                          <tr>

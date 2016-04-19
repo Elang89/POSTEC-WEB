@@ -18,11 +18,10 @@ namespace POSTEC_WEB
         {
             string json;
             JObject json_response = JObject.Parse("{ " +
-                " 'Customer': { " +
                    " 'Name': 'John', " +
                    " 'Last_Name': 'Williams', " +
                    " 'Second_Last_Name': 'Johnson', " +
-                   " 'Email': 'jw@gmail.com' }}");
+                   " 'Email': 'jw@gmail.com' }");
             json = JsonConvert.SerializeObject(json_response);
             return json;
         }
