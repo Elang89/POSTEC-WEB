@@ -17,6 +17,7 @@
                          <tr>
                              <td id="cust_first">Name</td>
                              <td id="cust_last">Last Name</td>
+                             <td id="cust_second_last">Second Last Name</td>
                              <td id="cust_email">Email</td>
                          </tr>
                      </table>

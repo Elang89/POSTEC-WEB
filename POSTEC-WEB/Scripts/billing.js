@@ -1,7 +1,7 @@
 ﻿$(document).ready(function(){
     $.ajax({
         type: "GET",
-        url: "api/Billing/GetCustomer",
+        url: "api/Customers/GetCustomer",
         data: "{}",
         contentType: "application/json",
         dataType: "json",

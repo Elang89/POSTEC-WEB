@@ -9,7 +9,7 @@ using System.Web.Http;
 
 namespace POSTEC_WEB
 {
-    public class BillingController : ApiController
+    public class CustomersController : ApiController
     {
         [AcceptVerbs("GET", "POST")]
         [HttpGet]
@@ -25,21 +25,6 @@ namespace POSTEC_WEB
                    " 'Email': 'jw@gmail.com' }}");
             json = JsonConvert.SerializeObject(json_response);
             return json;
-        }
-
-        // POST api/<controller>
-        public void Post([FromBody]string value)
-        {
-        }
-
-        // PUT api/<controller>/5
-        public void Put(int id, [FromBody]string value)
-        {
-        }
-
-        // DELETE api/<controller>/5
-        public void Delete(int id)
-        {
         }
     }
 }
